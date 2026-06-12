@@ -55,7 +55,7 @@ python servidor.py
 
 ---
 
-##📈 **Resultados e Convergência**
+## 📈 **Resultados e Convergência**
 
 A simulação demonstrou uma rápida convergência matemática da rede global. O erro quadrático médio (Loss) decaiu significativamente ao longo de 5 rodadas de comunicação, provando a eficácia da aprendizagem descentralizada:
 
